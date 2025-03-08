@@ -115,12 +115,9 @@ jupyter notebook Analisis_datos_Data_Wrangling.ipynb
 ## 👥 Contacto
 
 Email: josealberto1829@gmail.com
-[GitHub](https://github.com/jose-alberto-hurtado)
 
-[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-alberto-hurtado-echeverr%C3%ADa-77910a319/)
+GitHub: [GitHub](https://github.com/jose-alberto-hurtado)
 
-GitHub: jose-alberto-hurtado
-
-LinkedIn: José Alberto Hurtado Echeverría
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-alberto-hurtado-echeverr%C3%ADa-77910a319/)
 
 ## 🌟 Si te gustó este proyecto, dale una estrella en GitHub! ⭐
