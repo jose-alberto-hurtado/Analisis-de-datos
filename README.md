@@ -1,6 +1,6 @@
 # Análisis de Datos en Instacart
 
-🌍 ## Introducción
+## 🌍 Introducción
 
 Instacart es una plataforma de entregas de comestibles donde los usuarios pueden realizar pedidos y recibirlos en sus hogares. El objetivo de este proyecto es analizar los patrones de compra de los clientes, optimizar estrategias de ventas y proporcionar insights útiles basados en los datos de pedidos.
 
