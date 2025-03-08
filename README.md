@@ -6,7 +6,7 @@ Instacart es una plataforma de entregas de comestibles donde los usuarios pueden
 
 Este análisis se centra en la exploración, limpieza y visualización de datos de compras en Instacart, identificando tendencias clave como los productos más vendidos, los días de mayor demanda y las tasas de recompra.
 
-📊 Dataset y Diccionario de Datos
+## 📊 Dataset y Diccionario de Datos
 
 El conjunto de datos incluye 5 tablas principales:
 
@@ -22,7 +22,7 @@ order_products.csv: Relación entre productos y pedidos.
 
 Cada tabla contiene información clave para entender los patrones de compra y segmentar los datos de manera efectiva.
 
-📂 Archivos Incluidos
+## 📂 Archivos Incluidos
 
 aisles.csv: Contiene información sobre los pasillos (categorías de productos) disponibles en la tienda.
 
@@ -34,7 +34,7 @@ products.csv: Información sobre los productos disponibles.
 
 Analisis_datos_Data_Wrangling.ipynb: Jupyter Notebook con el análisis y las visualizaciones generadas.
 
-🤖 Tecnologías y Herramientas Utilizadas
+## 🤖 Tecnologías y Herramientas Utilizadas
 
 Python: Lenguaje principal.
 
@@ -44,7 +44,7 @@ Matplotlib & Seaborn: Visualización de datos.
 
 Jupyter Notebook: Desarrollo y documentación del proyecto.
 
-🏗️ Estructura del Proyecto
+## 🏗️ Estructura del Proyecto
 
 Carga de datos: Lectura de los archivos CSV.
 
@@ -62,7 +62,7 @@ Análisis de los horarios con mayor cantidad de pedidos.
 
 Relación entre categorías de productos y comportamiento del cliente.
 
-🎨 Visualización de Resultados
+## 🎨 Visualización de Resultados
 
 ¿A qué hora compran más los clientes?
 
@@ -88,7 +88,7 @@ Los días domingo y lunes tienen la mayor cantidad de pedidos.
 
 ✅ Leche orgánica
 
-🚀 Conclusiones y Recomendaciones
+## 🚀 Conclusiones y Recomendaciones
 
 Patrones de compra: La mayor actividad de compra ocurre entre las 10 AM y 5 PM.
 
@@ -98,7 +98,7 @@ Días de mayor compra: Domingo y lunes tienen el mayor volumen de ventas.
 
 Estrategia de marketing: Se pueden hacer descuentos en productos populares y promociones en días de menor demanda.
 
-📑 Reproducir el Análisis
+## 📑 Reproducir el Análisis
 
 Clonar este repositorio:
 
@@ -112,7 +112,7 @@ Abrir el archivo Jupyter Notebook:
 
 jupyter notebook Analisis_datos_Data_Wrangling.ipynb
 
-👥 Contacto
+## 👥 Contacto
 
 Email: josealberto1829@gmail.com
 
@@ -120,4 +120,4 @@ GitHub: jose-alberto-hurtado
 
 LinkedIn: José Alberto Hurtado Echeverría
 
-🌟 Si te gustó este proyecto, dale una estrella en GitHub! ⭐
+## 🌟 Si te gustó este proyecto, dale una estrella en GitHub! ⭐
