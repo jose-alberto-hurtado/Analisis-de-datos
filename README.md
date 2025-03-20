@@ -6,7 +6,7 @@ Instacart es una plataforma de entregas de comestibles donde los usuarios pueden
 
 Este análisis se centra en la exploración, limpieza y visualización de datos de compras en Instacart, identificando tendencias clave como los productos más vendidos, los días de mayor demanda y las tasas de recompra.
 
-## 📊 Dataset y Diccionario de Datos
+## 📊 Dataset y Diccionario de Datos 
 
 El conjunto de datos incluye 5 tablas principales:
 
